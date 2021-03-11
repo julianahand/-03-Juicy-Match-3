@@ -6,6 +6,8 @@ Juicy Match-3 game filled with the most lively bunch of animales ranging from al
 
 
 ## Implementation:
+  -Changing the colors
+  -Animate the elements
   -Animate elements when they are selected
   -Shake the screen when something good happens
   -Add sound effects
