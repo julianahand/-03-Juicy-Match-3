@@ -21,6 +21,10 @@ Juicy Match-3 game filled with the most lively bunch of animales ranging from al
   -Patrick De Arteaga (music)
   -FreeSound (sound effects)
   
-  
+
+## Furute Development:
+I plan to further develope this game with more features and possibly different tile faces
+
+
 ## Created By:
   Juliana Hand
