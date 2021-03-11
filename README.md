@@ -2,7 +2,7 @@
 Project 03 for MSCH-C220
 Juicy Match-3 game filled with the most lively bunch of animales ranging from all over the biosphere.
 
-
+""
 Implementation:
   Kenne.ly (graphis)
   1001 Free Fonts (font used)
