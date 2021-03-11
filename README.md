@@ -2,14 +2,14 @@
 Project 03 for MSCH-C220
 Juicy Match-3 game filled with the most lively bunch of animales ranging from all over the biosphere.
 
-""
-Implementation:
+
+## Implementation:
   Kenne.ly (graphis)
   1001 Free Fonts (font used)
   Patrick De Arteaga (music)
   FreeSound (sound effects)
 
-Features included:
+## Features included:
   Animate elements when they are selected
   Shake the screen when something good happens
   Add sound effects
@@ -18,5 +18,5 @@ Features included:
   Make the elements fall off the screen when they are matched
   Break the elements when they are matched
   
-  Created By:
+## Created By:
   Juliana Hand
